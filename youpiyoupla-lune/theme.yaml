@@ -1,0 +1,6 @@
+name: "Lune"
+description: "OctoberCMS Theme based on Octaskin for Objectif Lune plugin"
+author: Youpiyoupla
+homepage: "https://objectiflune.ovh/"
+code: octobercms-lune
+form: config/fields.yaml
